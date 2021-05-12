@@ -1,0 +1,38 @@
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.csprojAssemblyReference.cache
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie_MarkupCompile.cache
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie_MarkupCompile.lref
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.g.resources
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.AssemblyInfoInputs.cache
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.AssemblyInfo.cs
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.csproj.CoreCompileInputs.cache
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.pdb
+C:\Users\Teerath\source\repos\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.exe
+C:\Users\Teerath\source\repos\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.deps.json
+C:\Users\Teerath\source\repos\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.runtimeconfig.json
+C:\Users\Teerath\source\repos\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.runtimeconfig.dev.json
+C:\Users\Teerath\source\repos\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.dll
+C:\Users\Teerath\source\repos\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.pdb
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.dll
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.genruntimeconfig.cache
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\View.g.cs
+C:\Users\Teerath\source\repos\JeuDlaVie\obj\Debug\netcoreapp3.1\View.baml
+E:\Cours\rattrapage C#\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.exe
+E:\Cours\rattrapage C#\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.deps.json
+E:\Cours\rattrapage C#\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.runtimeconfig.json
+E:\Cours\rattrapage C#\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.runtimeconfig.dev.json
+E:\Cours\rattrapage C#\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.dll
+E:\Cours\rattrapage C#\JeuDlaVie\bin\Debug\netcoreapp3.1\JeuDlaVie.pdb
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.csprojAssemblyReference.cache
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\View.g.cs
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie_MarkupCompile.cache
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie_MarkupCompile.lref
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\View.baml
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.g.resources
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.AssemblyInfoInputs.cache
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.AssemblyInfo.cs
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.csproj.CoreCompileInputs.cache
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.dll
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.pdb
+E:\Cours\rattrapage C#\JeuDlaVie\obj\Debug\netcoreapp3.1\JeuDlaVie.genruntimeconfig.cache
